@@ -12,15 +12,19 @@ Second, Descartes uses the same image to describe the response of the “soul.�
 I understand that this is recent discovery and complexity theory itself is a novel concept; nonetheless, a complex material system can substitute for the immaterial soul or spirits.  
 
 [1] https://plato.stanford.edu/entries/pineal-gland/#DescViewPineGlan
+
 [2] Chalmers (ed), Philosophy of Mind, Chapter 2 – “The Passion of the Soul”
+
 [3] https://plato.stanford.edu/entries/descartes/#MinRel 
+
 [4] https://news.wisc.edu/researchers-pinpoint-where-the-brain-unites-our-eyes-double-vision/ 
+
 [5] Melanie Mitchell, Complexity a Guided Tour, Chapter 1 – “What is complexity?”
 
 --------------------------------------------
 
-Another classmates' response:
 ## Descartes' Immaterial Soul and His Era
+> Another classmates' response
 
 I think this a prime example how who knowledge from the current era and knowledge from the previous eras can have such a stark contrast. Especially since we are living in a time where modern scientific research and medical methodologies rule over philosophers spending a majority of the day determining the "causes" for many of the "effects". Descartes explanation of how the mind interprets objects and people in the external world sounds foreign or mainly incorrect, primarily because we have the correct information from ophthalmology. To play devil's advocate, I believe Descartes' understanding of visual interpretation, immaterial, and philosophical topics may be the fault of his religious beliefs. From what we have learned in class, Descartes was a philosopher but also a believer in God. Perhaps, much of the terminology and reasoning he created was religiously influenced in a way. While he does believe that the soul is a brain gland, he places a lot emphasis on the soul and with spirits.  In my perspective, an example of this action can be seen in one of your sentences: "First, Descartes uses an example of an animal approaching us to describe the process by which we see or our “soul” sees" . After reading this sentence, I believe Descartes places some sort of agency with the human soul, as if the soul is somewhat automatic or it governs its own self by its own principles/laws. 
 
